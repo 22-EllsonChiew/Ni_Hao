@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
         //Win Scene
         if(Score == 10)
         {
-            //SceneManager.LoadScene("GameWin");
+            SceneManager.LoadScene("Level2");
         }
     }
 
@@ -55,7 +55,9 @@ public class PlayerController : MonoBehaviour
     {
         if(other.gameObject.tag == "Coin")
         {
-                
+            Score += 1;
+            scoreText.GetComponent<Text>().text = "Coins Collected: " + Score;
+            Destroy(other.gameObject);
         }
     }
 }
