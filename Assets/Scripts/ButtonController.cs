@@ -20,6 +20,6 @@ public class ButtonController : MonoBehaviour
 
     public void Restart()
     {
-        SceneManager.LoadScene("MainScene");
+        SceneManager.LoadScene("Level1");
     }
 }
