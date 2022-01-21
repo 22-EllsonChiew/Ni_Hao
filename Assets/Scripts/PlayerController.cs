@@ -6,12 +6,13 @@ using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
-
+    //Movement Speed
     public float speed;
 
     Rigidbody playerRb;
 
-
+    public Text scoreText;
+    public int Score;
 
     // Start is called before the first frame update
     void Start()
@@ -31,14 +32,30 @@ public class PlayerController : MonoBehaviour
         Vector3 moveDirection = new Vector3(horizontal, 0.0f, vertical);
 
         transform.position += moveDirection * speed;
+
+        //Win Scene
+        if(Score == 10)
+        {
+            //SceneManager.LoadScene("GameWin");
+        }
     }
 
     void OnCollisionEnter(Collision collision)
     {
         if(collision.gameObject.tag == "Hazard")
         {
+            //Lose Scene
             SceneManager.LoadScene("GameLose");
             //Debug.Log("die");
+        }
+
+    }
+
+     void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.tag == "Coin")
+        {
+
         }
     }
 }
