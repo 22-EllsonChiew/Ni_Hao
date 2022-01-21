@@ -20,9 +20,12 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Control
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
 
+
+        //Movement
         Vector3 moveDirection = new Vector3(horizontal, 0.0f, vertical);
 
         transform.position += moveDirection * speed;
@@ -32,7 +35,8 @@ public class PlayerController : MonoBehaviour
     {
         if(collision.gameObject.tag == "Hazard")
         {
-            Debug.Log("die");
+
+            //Debug.Log("die");
         }
     }
 }

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Grounded
   - Hazard
+  - Coin
   layers:
   - Default
   - TransparentFX
