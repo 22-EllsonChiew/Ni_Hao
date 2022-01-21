@@ -27,4 +27,12 @@ public class PlayerController : MonoBehaviour
 
         transform.position += moveDirection * speed;
     }
+
+    void OnCollisionEnter(Collision collision)
+    {
+        if(collision.gameObject.tag == "Hazard")
+        {
+            Debug.Log("die");
+        }
+    }
 }
