@@ -14,10 +14,13 @@ public class PlayerController : MonoBehaviour
     public Text scoreText;
     public int Score;
 
+    public int y;
+
     // Start is called before the first frame update
     void Start()
     {
         playerRb = GetComponent<Rigidbody>();
+        y = SceneManager.GetActiveScene().buildIndex;
     }
 
     // Update is called once per frame
@@ -34,10 +37,16 @@ public class PlayerController : MonoBehaviour
         transform.position += moveDirection * speed;
 
         //Win Scene
-        if(Score == 10)
+        if (Score == 10 && y == 0)
         {
             SceneManager.LoadScene("Level2");
         }
+        else if (Score == 15 && y == 1)
+        {
+            SceneManager.LoadScene("GameWin");
+        }
+
+        print(y);
     }
 
     void OnCollisionEnter(Collision collision)
@@ -51,7 +60,7 @@ public class PlayerController : MonoBehaviour
 
     }
 
-     void OnTriggerEnter(Collider other)
+    void OnTriggerEnter(Collider other)
     {
         if(other.gameObject.tag == "Coin")
         {
