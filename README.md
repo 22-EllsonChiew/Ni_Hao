@@ -1,2 +1,2 @@
 # Ni_Hao
-Our first our project 
+Our first project
