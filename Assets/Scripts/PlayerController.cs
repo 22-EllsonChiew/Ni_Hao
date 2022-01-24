@@ -11,10 +11,14 @@ public class PlayerController : MonoBehaviour
 
     Rigidbody playerRb;
 
+    //Score Text
     public Text scoreText;
     public int Score;
 
     public int y;
+
+    //Sound Effect
+    public AudioSource playSound;
 
     // Start is called before the first frame update
     void Start()
@@ -70,6 +74,7 @@ public class PlayerController : MonoBehaviour
     {
         if(other.gameObject.tag == "Coin")
         {
+            playSound.Play();
             Score += 1;
             scoreText.GetComponent<Text>().text = "Coins Collected: " + Score;
             Destroy(other.gameObject);
