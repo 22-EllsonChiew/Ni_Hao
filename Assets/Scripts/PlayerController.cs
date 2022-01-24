@@ -43,6 +43,11 @@ public class PlayerController : MonoBehaviour
         }
         else if (Score == 15 && y == 1)
         {
+            SceneManager.LoadScene("Level3");
+        }
+
+        if(Score == 16)
+        {
             SceneManager.LoadScene("GameWin");
         }
 

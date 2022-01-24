@@ -219,6 +219,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -299,6 +304,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -391,6 +401,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -617,6 +632,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -697,6 +717,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -771,6 +796,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -925,6 +955,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1098,6 +1133,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1442,6 +1482,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1516,6 +1561,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1630,6 +1680,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1799,6 +1854,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1957,6 +2017,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2129,6 +2194,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2243,6 +2313,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2317,6 +2392,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2415,6 +2495,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2489,6 +2574,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2563,6 +2653,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2661,6 +2756,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2821,6 +2921,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3108,6 +3213,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1289579388}
     m_Modifications:
+    - target: {fileID: 580421952722452296, guid: b4c872224d4a3da4897f164e4ecb88e8,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 03fdab7ed6d9cce4a8245028ecc17425, type: 2}
     - target: {fileID: 580421952722452302, guid: b4c872224d4a3da4897f164e4ecb88e8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3256,6 +3366,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hazard Walls
       objectReference: {fileID: 0}
+    - target: {fileID: 3068934566472783733, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f90ecb24940b4140874388f7e216656, type: 2}
     - target: {fileID: 7484838006488902351, guid: 5988bfbb5e0bbbd46a93da3fc7ada157,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3325,6 +3440,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1289579388}
     m_Modifications:
+    - target: {fileID: 4495561471804506240, guid: 5601d4e1dada0ad45a9db52cb6310aec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 03fdab7ed6d9cce4a8245028ecc17425, type: 2}
     - target: {fileID: 4495561471804506254, guid: 5601d4e1dada0ad45a9db52cb6310aec,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3394,6 +3514,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1289579388}
     m_Modifications:
+    - target: {fileID: 7479433877124708018, guid: f8b983ff250ec9e4eb1997106f50f50b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 03fdab7ed6d9cce4a8245028ecc17425, type: 2}
     - target: {fileID: 7479433877124708028, guid: f8b983ff250ec9e4eb1997106f50f50b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3523,6 +3648,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: OuterWalls
       objectReference: {fileID: 0}
+    - target: {fileID: 8021054896292878510, guid: eb068e1148bd57347bd184a28f43f08e,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 03fdab7ed6d9cce4a8245028ecc17425, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb068e1148bd57347bd184a28f43f08e, type: 3}
 --- !u!1001 &8143437658250563208
@@ -3537,6 +3667,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor
       objectReference: {fileID: 0}
+    - target: {fileID: 8143437659898980281, guid: 9e46740ee4b53c14997eedf63a2bff84,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a98e2a98f2a02ff4c8d2b0e989d53e99, type: 2}
     - target: {fileID: 8143437659898980283, guid: 9e46740ee4b53c14997eedf63a2bff84,
         type: 3}
       propertyPath: m_LocalPosition.x
