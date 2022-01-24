@@ -18,13 +18,14 @@ public class PlayerController : MonoBehaviour
     public int y;
 
     //Sound Effect
-    public AudioSource playSound;
+    private AudioSource playSound;
 
     // Start is called before the first frame update
     void Start()
     {
         playerRb = GetComponent<Rigidbody>();
         y = SceneManager.GetActiveScene().buildIndex;
+        playSound = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -49,14 +50,20 @@ public class PlayerController : MonoBehaviour
         {
             SceneManager.LoadScene("Level3");
         }
+        else if (Score == 16 && y == 2)
+        {
+            SceneManager.LoadScene("Level4");
+        }
+        else if (Score == 16 && y == 3)
+        {
+            SceneManager.LoadScene("GameWin");
+        }
 
-        if(Score == 16)
+        if (Score == 16)
         {
             //SceneManager.LoadScene("GameWin");
             //SceneManager.LoadScene("Level4");
         }
-
-        print(y);
     }
 
     void OnCollisionEnter(Collision collision)
